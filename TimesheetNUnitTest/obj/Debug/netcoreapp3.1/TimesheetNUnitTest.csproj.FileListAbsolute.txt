@@ -1,0 +1,4 @@
+C:\Users\himanshu\source\repos\Timesheet\TimesheetNUnitTest\obj\Debug\netcoreapp3.1\TimesheetNUnitTest.csprojAssemblyReference.cache
+C:\Users\himanshu\source\repos\Timesheet\TimesheetNUnitTest\obj\Debug\netcoreapp3.1\TimesheetNUnitTest.AssemblyInfoInputs.cache
+C:\Users\himanshu\source\repos\Timesheet\TimesheetNUnitTest\obj\Debug\netcoreapp3.1\TimesheetNUnitTest.AssemblyInfo.cs
+C:\Users\himanshu\source\repos\Timesheet\TimesheetNUnitTest\obj\Debug\netcoreapp3.1\TimesheetNUnitTest.csproj.CoreCompileInputs.cache
