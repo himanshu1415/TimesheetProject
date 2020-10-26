@@ -36,12 +36,6 @@ namespace TimesheetNUnitTest
                 var emplist = emprepo.GetAll();
                 Assert.AreEqual(2, emplist.Count());
             }
-        [Test]
-        public void GetEmployeeByIDTest()
-        {   string x = "CS101";
-            var emprepo = new TimesheetRepository(empcontextmock.Object);
-            var emplist = emprepo.GetById(x);
-            Assert.AreEqual(1, emplist.Count());
-        }
+       
     }
 }
